@@ -32,6 +32,7 @@ main{
     height: 15rem;
     width: 100%;
     margin-bottom: 1rem;
+    border-radius: 10px;
 }
 
 .btn-1{
@@ -59,6 +60,3 @@ main{
     border: none;
 }
 
-.card h1 {
-    font-weight: bold;
-}
